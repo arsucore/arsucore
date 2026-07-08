@@ -9,7 +9,7 @@ learning python, java, js, html/css and firebase rn. mostly self taught + random
 ## 🎮 check out my game
 
 built **focus-ring** — a simple focus timer thing, was bored and wanted to make something actually useful instead of another to-do list app
-👉 [github.com/arsucore/focus-ring](https://github.com/arsucore/focus-ring)
+👉 [github.com/arsucore/focus-ring](https://arsucore.github.io/focus-ring/)
 
 go star it / roast it, whatever. feedback welcome fr
 
@@ -19,11 +19,11 @@ python · java · javascript · html · css · firebase · git
 
 ## find me
 
-📍 [add your city/country here]
-🎂 [add your age here]
-📷 ig: [your handle]
-💬 discord: [your handle]
-📧 mail: [your email]
+📍 [patna/india]
+📷 ig: [@arsuucore]
+💬 discord: [https://discord.gg/CDBXn2BD]
+📧 mail: [sundramadarshh@gmail.com]
+❄️ linkedin: [https://www.linkedin.com/in/adarsh-sundram-98323841a?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 
 ---
 
